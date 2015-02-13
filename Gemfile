@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+
+gem 'bower-rails'
+gem "font-awesome-rails"
+gem 'bootstrap-sass', '~> 3.3.1'

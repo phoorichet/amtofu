@@ -1,0 +1,9 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "moment": "latest",
+    "colorbrewer": "latest",
+    "lodash": "latest",
+    "skrollr": "latest"
+  }
+}
