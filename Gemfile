@@ -44,7 +44,11 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+# Other JS library
 gem 'bower-rails'
 gem "font-awesome-rails"
 gem 'bootstrap-sass', '~> 3.3.1'
+
+
+# User by Heroku
+gem 'rails_12factor', group: :production

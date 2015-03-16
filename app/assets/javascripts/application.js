@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require skrollr
+//= require colorbrewer
+//= require lodash
+//= require moment
 //= require_tree .
